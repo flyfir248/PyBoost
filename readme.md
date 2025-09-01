@@ -1,7 +1,3 @@
-That's an excellent point. A great `README.md` file is crucial for open-source projects. It acts as the first point of contact for new users and developers, clearly explaining what the tool is, why it's useful, and how to use it. A more detailed `README` will significantly improve your project's appeal and clarity.
-
-Here is a comprehensive `README.md` file you can use to replace the sparse one you have. It's structured to clearly explain the benefits to both users and developers.
-
 -----
 
 # pyboost-auditor
